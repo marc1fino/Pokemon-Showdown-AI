@@ -1,3 +1,5 @@
+# TODO Mejorar lógica utilizando habilidades (utilities.py) y solucionar casos como el de Cresselia
+
 from poke_env import Player, AccountConfiguration
 from poke_env.ps_client import ServerConfiguration, ShowdownServerConfiguration
 from poke_env.battle.move_category import MoveCategory
